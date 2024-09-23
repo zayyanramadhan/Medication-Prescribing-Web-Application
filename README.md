@@ -1,4 +1,4 @@
-# curd-laravel-kepegawaian
+# Medication-Prescribing-Web-Application
 
 ## 1
 ```sh
